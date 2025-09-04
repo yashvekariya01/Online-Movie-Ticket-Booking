@@ -1,0 +1,2 @@
+C:\Users\Microsoft\Desktop\asp\Movie-Ticket-Booking-System-main\Movie-Ticket-Booking-System-main\Movie-Ticket-Booking-System-main\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.csproj.AssemblyReference.cache
+C:\Users\Microsoft\Desktop\asp\Movie-Ticket-Booking-System-main\Movie-Ticket-Booking-System-main\Movie-Ticket-Booking-System-main\Online Movie Ticket Booking\obj\Debug\Online Movie Ticket Booking.csproj.CoreCompileInputs.cache
